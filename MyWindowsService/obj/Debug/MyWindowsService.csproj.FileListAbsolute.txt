@@ -1,0 +1,8 @@
+F:\maiaimei\WindowsService\MyWindowsService\MyWindowsService\bin\Debug\MyWindowsService.exe.config
+F:\maiaimei\WindowsService\MyWindowsService\MyWindowsService\bin\Debug\MyWindowsService.exe
+F:\maiaimei\WindowsService\MyWindowsService\MyWindowsService\bin\Debug\MyWindowsService.pdb
+F:\maiaimei\WindowsService\MyWindowsService\MyWindowsService\obj\Debug\MyWindowsService.csprojResolveAssemblyReference.cache
+F:\maiaimei\WindowsService\MyWindowsService\MyWindowsService\obj\Debug\MyWindowsService.ProjectInstaller.resources
+F:\maiaimei\WindowsService\MyWindowsService\MyWindowsService\obj\Debug\MyWindowsService.csproj.GenerateResource.Cache
+F:\maiaimei\WindowsService\MyWindowsService\MyWindowsService\obj\Debug\MyWindowsService.exe
+F:\maiaimei\WindowsService\MyWindowsService\MyWindowsService\obj\Debug\MyWindowsService.pdb
